@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kuzeykanl99
-- 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Flutter&Firebase
+- 👀 I’m a Software Engineer and Web Developer
+- 🌱 I’m currently developing in Flutter&Firebase
 - 📫 How to reach me kuzeykanl@gmail.com
+- Check out [Kelime Yolu](https://rota-9c473.web.app)
 
 <!---
 Kuzeykanl99/Kuzeykanl99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
