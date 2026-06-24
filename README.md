@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kuzeykanl99
-- 👀 I’m a Software Engineer and Web Developer
+- 👀 I’m a Software Engineer / Web Developer
 - 🌱 I’m currently developing in React/next.js
-- 📫 How to reach me kuzeykanl@gmail.com
+- 📫 How to reach me: kuzeykanl@gmail.com
 - Check out [Kelime Yolu](https://rota-9c473.web.app)
 
 <!---
